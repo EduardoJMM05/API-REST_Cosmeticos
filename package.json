@@ -1,0 +1,20 @@
+{
+  "name": "apicosmetics",
+  "version": "1.0.0",
+  "description": "App backend by cosmetics e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "EduardoJMM05",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "8.10.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "nodemon": "2.0.15",
+    "prettier": "2.5.1"
+  }
+}
